@@ -1,8 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgiyIshchenko&layout=compact&theme=merko)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgiyIshchenko&layout=compact&theme=dark)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GeorgiyIshchenko&show_icons=true&count_private=true&theme=merko)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GeorgiyIshchenko&show_icons=true&count_private=true&theme=dark)
 
 <!--
 **GeorgiyIshchenko/GeorgiyIshchenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
