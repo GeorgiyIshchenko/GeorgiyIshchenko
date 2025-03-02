@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub!;C\+\+\+\+\+\+\+\+\+\+\+\+\+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub!;Cpppppppppppppppppppppp)](https://git.io/typing-svg)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgiyIshchenko&layout=compact&theme=blue_navy)
 
